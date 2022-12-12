@@ -15,6 +15,6 @@ public class AnnoDemo {
 
     public void show2(){}
 
-    AnnoDemo(){}
+    AnnoDemo
 
 }
